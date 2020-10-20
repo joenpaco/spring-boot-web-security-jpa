@@ -1,0 +1,14 @@
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/controllers/ClienteController.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/errors/ErrorController.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/controllers/LoginController.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/daos/ClienteDao.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/configurations/SpringSecurityConfig.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/models/entities/Usuario.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/errors/ClienteNotFoundException.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/services/impl/ClienteServiceImpl.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/models/dtos/ClienteDto.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/models/entities/Role.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/services/ClienteService.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/models/entities/Cliente.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/configurations/MvcConfig.java
+/Users/jose/Documents/workspaces/spring-boot-web-security-jpa/src/main/java/com/joenpaco/SpringBootWebCrudJpaApplication.java

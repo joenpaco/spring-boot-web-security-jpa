@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.joenpaco.SpringBootWebCrudJpaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.261 s - in com.joenpaco.SpringBootWebCrudJpaApplicationTests
